@@ -17,6 +17,7 @@ int main()
 	int tgw = 0;
 	int tge = 0;
 	
+	//nuevo branch cambio
 	
 	srand(time(NULL));
 	
